@@ -1,15 +1,16 @@
 # Hi, I'm Hannah 👋
 
-I'm an IT professional passionate about system and database architecture.
+I like building stuff.
+
+Currently exploring RESTful system design, web applications, analytics, and database architecture.
 
 ## 🛠️ Tech Stack
-- Languages: Python,  SQL, JavaScript, PHP, HTML/CSS
+- Languages: Python, SQL, JavaScript, PHP, HTML/CSS
 - Tools: Git, VS Code, Postman, Figma
 
 ## 📌 Featured Projects
-- [Project 1](link) - Description
-- [Project 2](link) - Description
+- [Web-Based Laravel Booking System](https://github.com/SomniSpiral/booking-system-v2601)
 
 ## 📫 Connect with me
 - [LinkedIn](your-linkedin-url)
-- [Portfolio](https://somnispiral.github.io)  // Link to your actual site
+- [Portfolio](https://somnispiral.github.io)
