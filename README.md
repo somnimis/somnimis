@@ -12,5 +12,5 @@ Currently exploring RESTful system design, web applications, analytics, and data
 - [Web-Based Laravel Booking System](https://github.com/SomniSpiral/booking-system-v2601)
 
 ## 📫 Connect with me
-- [LinkedIn](your-linkedin-url)
-- [Portfolio](https://somnispiral.github.io)
+- [LinkedIn](https://www.linkedin.com/in/hg-escosar/)
+- [Portfolio](https://somnimis.github.io/)
