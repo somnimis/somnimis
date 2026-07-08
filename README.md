@@ -4,7 +4,7 @@ I like building stuff.
 
 Currently exploring RESTful system design, web applications, analytics, and database architecture.
 
-## Portfolio Website
+## Portfolio
 - [Portfolio](https://somnimis.github.io/)
 
 ## Tech Stack
@@ -12,8 +12,9 @@ Currently exploring RESTful system design, web applications, analytics, and data
 - Tools: Git, VS Code, Postman, Figma
 
 ## Featured Projects
-- [Web-Based Laravel Booking System](https://github.com/SomniSpiral/booking-system-v2601)
+- [Web-Based Laravel Booking System](https://github.com/somnimis/booking-system-v2601)
 
-## Connect with me
+## Connect
 - [LinkedIn](https://www.linkedin.com/in/hg-escosar/)
+- [Contact](https://somnimis.github.io/#contact)
 
